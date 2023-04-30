@@ -7,3 +7,4 @@ mkdir jenkins-work
 touch jenkins-work
 ls
 echo "jenkins-work" > jenkins-work
+cat jenkins-work
